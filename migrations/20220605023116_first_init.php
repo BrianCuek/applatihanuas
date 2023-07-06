@@ -46,12 +46,12 @@ final class FirstInit extends AbstractMigration
                 'created_at' => date('Y-m-d'),
             ],
             [
-                'username' => 'nami',
+                'username' => 'kaido',
                 'email' => 'nami@pirate.com',
                 'created_at' => date('Y-m-d'),
             ],
             [
-                'username' => 'franky',
+                'username' => 'roger',
                 'email' => 'franky@pirate.com',
                 'created_at' => date('Y-m-d'),
             ],
